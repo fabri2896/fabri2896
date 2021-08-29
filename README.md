@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oiii! Eu sou o Fabricio Moreira
  <div>
   <a href="https://github.com/fabri2896">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fabri2896&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
