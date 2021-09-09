@@ -1,15 +1,17 @@
 ## Oiii! Eu sou o Fabricio Moreira
  <div>
   <a href="https://github.com/fabri2896">
+
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=fabri2896&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabri2896&layout=compactt&langs_count=5&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fabri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fabri-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Fabri-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg">
+  <img align="center" alt="Fabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Fabri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Fabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Fabri-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Fabri-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg"/>
+ 
 </div>
   
   ##
