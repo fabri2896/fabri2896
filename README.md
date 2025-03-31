@@ -11,6 +11,7 @@
   <img align="center" alt="Fabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Fabri-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Fabri-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg"/>
+  <img align="center" alt="Fabri-GO" height="30" width="40" src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/3478773144ed1d8fe4081f205933752631529e9f/svg/golang_2.svg"/>
  
 </div>
   
